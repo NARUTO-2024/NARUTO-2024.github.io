@@ -1,16 +1,12 @@
+I am currently pursuing my undergraduate degree at Jilin University in the Tang Aoqing Science Experimental Class of 2022 (Computer Orientation).
 
+#### Email  
+<code>liyz2122@mails.edu.jlu.cn</code>  
+<code>liyangzhuo49@gmail.com</code>
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+#### Education  
+**Jilin University***, Bachelor of Science in Computer Science and Technology (2022 - 2024)  
+- GPA: 3.61/4.00  
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+#### Research Interests  
+Multimodal, Audio Processing
